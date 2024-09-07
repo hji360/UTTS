@@ -1,0 +1,21 @@
+.color-blue-button {
+    color: #164e63;
+    font-weight: 600;
+}
+
+.width-200 {
+    width: 200px;
+}
+
+.no-text-style {
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #e2e8f0;
+    display: inline;
+}
+
+.nav-link:hover {
+    color: white;
+}
